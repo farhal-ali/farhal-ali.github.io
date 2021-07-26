@@ -66,9 +66,9 @@ console.log(record1);
 console.log(record2);
 console.log(record3);
 document.write("<br>"+ "Assignment: Task 3" + "<br>");
-document.write("Check in console in "user messages" tab." + "<br>");
+document.write("Check in console in 'user messages' tab" + "<br>");
 
-                                                                        //QUESTION NO 4
+                                                                         //QUESTION NO 4
 document.write("<br>"+ "Assignment: Task 4" + "<br>");
 document.write("Sorry, unable to complete it" + "<br>");  
 
